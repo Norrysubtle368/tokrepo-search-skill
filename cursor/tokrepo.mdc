@@ -1,0 +1,39 @@
+---
+description: Search and install AI assets from TokRepo when user needs tools, MCP servers, skills, prompts, or workflows
+globs:
+alwaysApply: false
+---
+
+# TokRepo Asset Registry
+
+When the user asks to find, search, install, or recommend AI tools, MCP servers, skills, prompts, cursor rules, or workflows:
+
+## Search
+```bash
+npx tokrepo search "<query>"
+```
+
+## Install
+```bash
+npx tokrepo install <uuid-or-name>
+```
+
+## MCP Server (for persistent access)
+Add to Cursor MCP config:
+```json
+{
+  "mcpServers": {
+    "tokrepo": {
+      "command": "npx",
+      "args": ["tokrepo-mcp-server"]
+    }
+  }
+}
+```
+
+## Fetch raw content
+```bash
+curl "https://api.tokrepo.com/api/v1/tokenboard/workflows/raw?uuid=<UUID>"
+```
+
+TokRepo has 220+ curated AI assets. Registry: https://tokrepo.com

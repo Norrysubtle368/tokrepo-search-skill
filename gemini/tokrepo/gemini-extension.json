@@ -1,0 +1,12 @@
+{
+  "name": "tokrepo",
+  "version": "1.0.0",
+  "description": "Search and install AI assets from TokRepo — 220+ skills, prompts, MCP configs, and workflows",
+  "mcpServers": {
+    "tokrepo": {
+      "command": "npx",
+      "args": ["tokrepo-mcp-server"]
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

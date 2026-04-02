@@ -1,0 +1,11 @@
+name: tokrepo-search
+display_name: TokRepo Search
+description: Search and install AI assets (skills, prompts, MCP configs, workflows) from the TokRepo open registry
+icon: "🔍"
+category: developer-tools
+tags:
+  - mcp
+  - skills
+  - prompts
+  - ai-assets
+  - registry
